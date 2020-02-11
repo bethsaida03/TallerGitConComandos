@@ -1,0 +1,10 @@
+este es mi deber de procesos de software
+On branch master
+Changes not staged for commit:
+	modified:   archivoB.txt
+	modified:   archivoC.txt
+
+no changes added to commit
+I like Bethsaida XD
+[master 073a4e5] don't break me again, I am delicate ajjaja
+ 2 files changed, 11 insertions(+)

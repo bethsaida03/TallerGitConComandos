@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+ I will always want you
+hola mundo
+=======
+'Don't you remember the reason you love me before
+>>>>>>> pruebas
+Resuelvo el conflicto en esta primera línea del archivo
+También modifico la segunda línea del archivo

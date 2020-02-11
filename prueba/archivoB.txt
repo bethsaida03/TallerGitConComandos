@@ -1,0 +1,11 @@
+Bethsaida Elizabeth Chea Martillo
+[master 6ad5fbb] Escuchar musica me relaja
+ 3 files changed, 2 insertions(+)
+ create mode 100644 archivoC.txt
+ I don't like English 
+On branch master
+Changes not staged for commit:
+	modified:   archivoA.txt
+	modified:   archivoC.txt
+
+no changes added to commit
